@@ -7,6 +7,8 @@
 - 💻 &nbsp; Python | Javascript | Java | HTML/CSS | C++
 - 🌐 &nbsp; Node.js | ReactJS | Bootstrap
 
+[![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heyitsvi&show_icons=true&theme=cobalt)](https://github.com/heyitsvi)
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/vivek-singh-16514217b/) 
