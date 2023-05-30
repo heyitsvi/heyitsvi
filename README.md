@@ -2,12 +2,12 @@
 
 - 👋 Hi there, I’m Vivek 
 - 👀 I love computer science and building great products.
-- 💞️ I’m looking to learn from and collaborate on cool projects and tinker with new technologies.
+- ✨ I’m looking to learn from and collaborate on cool projects and tinker with new technologies.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Javascript | Java | HTML/CSS | C++
-- 🌐 &nbsp; Node.js | ReactJS | Bootstrap
+- 💻 &nbsp; Python | Javascript | Java | HTML/CSS | C
+- 🌐 &nbsp; Node.js | ReactJS 
 
 [![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heyitsvi&show_icons=true&theme=cobalt)](https://github.com/heyitsvi)
 
