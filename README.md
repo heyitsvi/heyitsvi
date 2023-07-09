@@ -9,7 +9,7 @@
 - 💻 &nbsp; Python | Javascript | Java | HTML/CSS | C
 - 🌐 &nbsp; Node.js | ReactJS 
 
-[![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heyitsvi&show_icons=true&theme=cobalt)](https://github.com/heyitsvi)
+<!--- [![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heyitsvi&show_icons=true&theme=cobalt)](https://github.com/heyitsvi) --->
 
 <h3> 🤝🏻 Connect with Me </h3>
 
