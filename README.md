@@ -11,7 +11,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/vivek-singh-16514217b/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivek99sanjeetsingh@gmail.com)](mailto:vivek99sanjeetsingh@gmail.com)
-[Resume Here]([https://github.com/heyitsvi](https://drive.google.com/file/d/1Slr72pBstJwE5C-D6Z3O29Rne2iRVyHH/view?usp=sharing))
+[Resume Here](https://drive.google.com/file/d/1Slr72pBstJwE5C-D6Z3O29Rne2iRVyHH/view?usp=sharing)
 
 
 
