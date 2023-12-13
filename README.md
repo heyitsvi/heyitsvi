@@ -2,12 +2,8 @@
 
 - 👋 Hi there, I’m Vivek 
 - 👀 I love computer science and building great products.
-- ✨ I’m looking to learn from and collaborate on cool projects and tinker with new technologies.
+- ✨ Here to learn and work on cool stuff : )
 
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | Javascript | Java | HTML/CSS | C
-- 🌐 &nbsp; Node.js | ReactJS 
 
 <!--- [![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heyitsvi&show_icons=true&theme=cobalt)](https://github.com/heyitsvi) --->
 
@@ -15,6 +11,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/vivek-singh-16514217b/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivek99sanjeetsingh@gmail.com)](mailto:vivek99sanjeetsingh@gmail.com)
+[Resume Here]([https://github.com/heyitsvi](https://drive.google.com/file/d/1Slr72pBstJwE5C-D6Z3O29Rne2iRVyHH/view?usp=sharing))
+
 
 
 ⭐️ From [heyitsvi](https://github.com/heyitsvi)
