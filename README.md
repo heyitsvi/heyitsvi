@@ -2,7 +2,7 @@
 
 - 👋 Hi there, I’m Vivek (or just Vi)
 - 🌻 I love computer science and building products. 
-- ✨ I document learning journey here :)
+- ✨ I document my learning journey here :)
 
 
 <!--- [![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heyitsvi&show_icons=true&theme=cobalt)](https://github.com/heyitsvi) --->
